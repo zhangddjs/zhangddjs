@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Cisco.Inc
+- 🌱 I’m currently learning USTC
+- 👯 I’m looking to collaborate on offers
+- 🤔 I’m looking for help with docker and k8s
+- 💬 Ask me about java/c++
+- 📫 How to reach me: zdd1995@mail.ustc.edu.cn
+
 <!--
 **zhangddjs/zhangddjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
