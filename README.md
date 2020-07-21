@@ -5,6 +5,8 @@
 - 🔭 I’m currently interning in Cisco.Inc
 - 🌱 I’m currently studying in USTC
 - 👯 I’m looking for an offer
+- ⚡ I’m good at java, c++
+- 🤔 I'm confused about my career development direction
 - 📫 How to reach me: [zdd1995@mail.ustc.edu.cn](mailto:zdd1995@mail.ustc.edu.cn) / [Twitter](https://twitter.com/covfefe_zdd)
 
 <!--
