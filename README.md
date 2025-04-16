@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhangddjs&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-- 🔭 I’m currently interning at Cisco.Inc
-- 🌱 I’m currently studying in USTC
-- 👯 I’m looking for an offer
-- ⚡ I’m good at java, c++
+- 🔭 I’m ex Cisco.Inc
+- 🌱 I’m currently working in Singapore
+- 👯 I’m was studying in USTC
+- ⚡ I’m good at Go, java, c++
 - 🤔 I'm confused about my career direction
 - 📫 Reach me: [zdd1995@mail.ustc.edu.cn](mailto:zdd1995@mail.ustc.edu.cn) / [Twitter](https://twitter.com/covfefe_zdd)
 
