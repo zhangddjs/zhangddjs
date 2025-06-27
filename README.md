@@ -7,7 +7,7 @@
 - 👯 I’m was studying in USTC
 - ⚡ I’m good at Go, java, c++
 - 🤔 I'm confused about my career direction
-- 📫 Reach me: [zdd1995@mail.ustc.edu.cn](mailto:zdd1995@mail.ustc.edu.cn) / [Twitter](https://twitter.com/covfefe_zdd)
+- 📫 Reach me: [noreply@msg2git.com](mailto:noreply@msg2git.com) / [Twitter](https://twitter.com/covfefe_zdd)
 
 <!--
 **zhangddjs/zhangddjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
